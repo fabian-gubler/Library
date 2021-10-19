@@ -80,7 +80,7 @@ input:focus {
   font-size: 20px;
   padding: 10px;
   border: 1px solid;
-  /* border-radius: 8px; */
+  background-color: white;
   box-shadow: -3px 3px black;
 }
 
